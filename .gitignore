@@ -1,0 +1,13 @@
+# Carpetas de compilación de .NET
+bin/
+obj/
+
+# Archivos de usuario de Visual Studio / Rider
+*.user
+*.suo
+.vs/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
